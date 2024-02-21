@@ -4,7 +4,7 @@ This project aims to analyze the Netflix movie dataset to analyze whether movies
 
 ## Prerequisites
 
-Make sure you have the required libraries installed. You can install them using: 
+Make sure you have the required libraries installed. You can install them using:
 
 ```bash
 pip install -r requirements.txt
